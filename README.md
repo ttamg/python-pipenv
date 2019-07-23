@@ -8,7 +8,7 @@ The purpose of this is to give a good starting point for a new python project us
 
 You need to have the following installed on your machine:
 *   Python 3.6 - google how to install python 3.6 if you do not have this
-*   Pipenv - see here for instructions https://docs.pipenv.org/en/latest/
+*   Pipenv - try `pip install pipenv` or see here for instructions https://docs.pipenv.org/en/latest/
 *   VS Code, or an alternative IDE of your choice - https://code.visualstudio.com/download
 
 
