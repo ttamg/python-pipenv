@@ -20,7 +20,7 @@ To pull down this starter image and get going:
 2.  Change the name of the directory for your new project name now if you like
 3.  CD into the project directory 
 4.  Create the virtualenvironment using the command `pipenv shell` on the commandline - this will create a new virtual environment which can be activated at any time by typing `pipenv shell` when in this directory.
-5.  Install the dependencies in the **Pipfile** by using `pipenv install --dev` to install just the development and production packages.  Note that to install just the production packages you use `pipenv install`
+5.  Install the dependencies in the **Pipfile** by using `pipenv install --dev --pre` to install just the development and production packages.  Note that to install just the production packages you use `pipenv install`
 6.  Type `code .` to load VS Code in this project
 7.  From the menu select **Python: Select Interpreter** and select the new virtual environment that we just created with the new project name
 8.  Get coding!
